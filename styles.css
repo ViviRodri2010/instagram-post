@@ -1,5 +1,4 @@
 body {
-    /* display: flex; */
     background-color: black;
     align-items: center;
 }
@@ -27,12 +26,9 @@ body {
 .postHeader div:nth-child(3)
 {
     margin-left: auto;
-    /* display: flex;
-    float: right; */
 }
 .postHeader div p{
     margin: 0;
-    /* padding-bottom: ; */
     font-size: 12px;
 }
 p{
@@ -41,7 +37,6 @@ p{
 .postBodyWidgets{
     display: flex;
     margin: 5px;
-    /* border-style: dotted; */
 }
 .postBodyWidgets div{
     margin: 5px;
@@ -52,6 +47,5 @@ p{
     padding-right: 5px;
 }
 .postText{
-    /* border-style: dotted; */
     margin: 10px;
 }
